@@ -1,0 +1,16 @@
+# Build directories
+build/
+dist/
+
+# NetBeans private configuration
+nbproject/private/
+
+# Java compiled files
+*.class
+
+# Log files
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
